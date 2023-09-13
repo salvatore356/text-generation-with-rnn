@@ -24,14 +24,9 @@ cd text-generation-with-rnn
 Install the necessary dependencies:
 
 ```bash
-npm install
-```
-## Usage
-To start the development server and view the app in your browser, run the following command:
-
-```bash
 conda create --name myenv --file requirements.txt
 ```
+## Usage
 
 Activate your environment
 
