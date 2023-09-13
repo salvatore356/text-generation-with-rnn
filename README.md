@@ -14,7 +14,7 @@ To get started, make sure you have the following prerequisites installed:
 Clone the project repository from GitHub:
 
 ```bash
-git https://github.com/salvatore356/text-generation-with-rnn.git
+git clone https://github.com/salvatore356/text-generation-with-rnn.git
 ```
 Navigate to the project directory:
 
